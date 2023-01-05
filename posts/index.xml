@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 数字记忆 周庄</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on 数字记忆 周庄</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-CN</language>
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>风过留痕，雁过留声——周庄记忆数字化</title>
+      <link>https://example.org/2022/12/%E9%A3%8E%E8%BF%87%E7%95%99%E7%97%95%E9%9B%81%E8%BF%87%E7%95%99%E5%A3%B0%E5%91%A8%E5%BA%84%E8%AE%B0%E5%BF%86%E6%95%B0%E5%AD%97%E5%8C%96/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/12/%E9%A3%8E%E8%BF%87%E7%95%99%E7%97%95%E9%9B%81%E8%BF%87%E7%95%99%E5%A3%B0%E5%91%A8%E5%BA%84%E8%AE%B0%E5%BF%86%E6%95%B0%E5%AD%97%E5%8C%96/</guid>
+      <description>&lt;p&gt;周庄镇，古称泽国，隶属于江苏省苏州市昆山市，位于昆山、吴江、上海三地交界处，镇域面积38.96平方公里。周庄镇始建于北宋元祐元年（1086年），因邑人周迪功郎捐地修全福寺而得名，是江南六大古镇之一。   &lt;strong&gt;网站主要通过搜集网络上关于周庄的数字资料对周庄进行简要的介绍，希望通过多种方式帮助访客对周庄有简单的了解。&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>地域风水</title>
+      <link>https://example.org/2022/12/diyufengshui/</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/12/diyufengshui/</guid>
+      <description>&lt;p&gt;周庄古朴的明清建筑、静谧流淌的河水让无数文人墨客为之倾心，赵丽华老师的《周庄水韵》更是入选了多本中小学教材。周庄的每一栋建筑、每一座石桥、每一泻溪流都曾引人驻足称叹……&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>历史文化</title>
+      <link>https://example.org/2022/12/%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/12/%E5%8E%86%E5%8F%B2%E6%96%87%E5%8C%96/</guid>
+      <description>&lt;p&gt;中国第一水乡周庄有着许多独特的民俗风情，无数中外游客来到这里，不仅被“小桥、流水、人家”的美景所吸引，同时被周庄独特的民俗风情深深地吸引。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>乡土生活</title>
+      <link>https://example.org/2022/12/%E4%B9%A1%E5%9C%9F%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/12/%E4%B9%A1%E5%9C%9F%E7%94%9F%E6%B4%BB/</guid>
+      <description>&lt;p&gt;“有一种生活叫周庄”，而周庄的生活可不止一种。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>游客游记</title>
+      <link>https://example.org/2022/12/%E6%B8%B8%E5%AE%A2%E6%B8%B8%E8%AE%B0/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/2022/12/%E6%B8%B8%E5%AE%A2%E6%B8%B8%E8%AE%B0/</guid>
+      <description>&lt;p&gt;周庄的旅游体验如何？来看看TA们分享的旅游经验和心得吧！&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
